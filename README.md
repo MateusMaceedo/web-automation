@@ -1,3 +1,9 @@
+<h1 align="center">
+<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="135.373" height="142">
+ <br>
+ <h1 align="center">Inmana</h1>
+</h1>
+
 # Selenium Web Driver
 
 Projeto contendo exemplos de uso do framework selenium para automatização de testes funcionais e de aceitação. 
