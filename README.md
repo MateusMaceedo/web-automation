@@ -22,7 +22,7 @@ public void rodandoTesteComChrome(){
 ```
 
 #### Navegadores suportados
-- [ x ] Chromium/Chrome	| Windows/macOS/Linux	| [Download](https://chromedriver.storage.googleapis.com/index.html)
+- [x] Chromium/Chrome	| Windows/macOS/Linux	| [Download](https://chromedriver.storage.googleapis.com/index.html)
 - [ x ] Firefox | Windows/macOS/Linux	| [Download](https://github.com/mozilla/geckodriver/releases)
 - [ x ] Edge | Windows 10 | Microsoft | [Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 - [ x ] Internet Explorer | Windows | [Download](https://selenium-release.storage.googleapis.com/index.html)
