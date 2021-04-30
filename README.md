@@ -20,3 +20,6 @@ public void rodandoTesteComChrome(){
 	busca.sendKeys( Keys.RETURN );
 }
 ```
+
+#### Navegadores suportados
+Chromium/Chrome	| Windows/macOS/Linux	| [Download](https://chromedriver.storage.googleapis.com/index.html)
