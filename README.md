@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="135.373" height="142">
-<img src="https://p7.hiclipart.com/preview/108/516/1007/cucumber-behavior-driven-development-software-testing-test-automation-cartoon-cucumber-thumbnail.jpg" width="135.373" height="142">
+<img src="https://www.clipartmax.com/png/small/157-1579891_cucumber-icon-cucumber-svg.png" width="135.373" height="142">
 </h1>
 
 # Selenium Web Driver
