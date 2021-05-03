@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="135.373" height="142">
-<img src="https://www.clipartmax.com/png/small/157-1579891_cucumber-icon-cucumber-svg.png" width="135.373" height="142">
+<img src="http://logovectorseek.com/wp-content/uploads/2020/09/cucumber-supported-by-smartbear-logo-vector.png" height="142">
 </h1>
 
 # Selenium Web Driver
