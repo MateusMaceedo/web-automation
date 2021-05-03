@@ -3,7 +3,7 @@
 <img src="http://logovectorseek.com/wp-content/uploads/2020/09/cucumber-supported-by-smartbear-logo-vector.png" height="142">
 </h1>
 
-# Selenium Web Driver
+# Automação com Selenium Web Driver + Cucumber BDD
 
 Projeto contendo exemplos de uso do framework selenium para automatização de testes funcionais e de aceitação. 
 
